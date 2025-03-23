@@ -1,5 +1,6 @@
 package com.example.sq_ch11_ex1.controllers;
 
+import com.example.sq_ch11_ex1.models.Payment;
 import com.example.sq_ch11_ex1.proxies.PaymentsProxy;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
